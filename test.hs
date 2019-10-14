@@ -40,3 +40,5 @@ numOfRealSolutions a b c
 
 {- function to negate a value -}
 my_negate x = -1 * x
+
+{- 5.4.1 Type inference -}
