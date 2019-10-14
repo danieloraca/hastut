@@ -38,4 +38,5 @@ numOfRealSolutions a b c
 
 {- :m Data.Char0 -}
 
+{- function to negate a value -}
 my_negate x = -1 * x
