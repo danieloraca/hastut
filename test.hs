@@ -42,3 +42,5 @@ numOfRealSolutions a b c
 my_negate x = -1 * x
 
 {- 5.4.1 Type inference -}
+isL :: Char -> Bool
+isL c = c == 'L'
