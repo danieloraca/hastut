@@ -1,5 +1,7 @@
 # hastut
 
+Resources 
+
 1. https://en.wikibooks.org/wiki/
 2. http://www.haskell.org/onlinereport/standard-prelude.html
 3. http://www.haskell.org/ghc/docs/latest/html/libraries/index.html
